@@ -46,7 +46,7 @@ En esta semana desarrollamos un kanban, un prototipado de la página en figma, c
 Encuesta: El propósito de esta encuesta fue comprender mejor las necesidades y desafíos enfrentados por personas con restricciones alimenticias.La encuesta fue tomada en cuenta desde que la respondieron 51 personas, lo que nos proporcionó una muestra representativa y significativa de la opinión y preferencias de nuestra audiencia. Los resultados fueron fundamentales para orientar el desarrollo de nuestra página web y asegurarnos de que abordaremos los problemas más relevantes para nuestra audiencia.
 Los resultados con sus preguntas correspondientes se encuentran en el siguiente link:
 
-GRÁFICOS ENCUESTA.pdf
+GRÁFICOS ENCUESTA https://drive.google.com/file/d/1CvQ9VO5Hb5zP5DdolhqBS8TnrNdaXQ6Z/view?usp=drive_link
 
 Kanban: Utilizamos una metodología ágil basada en Kanban para gestionar el desarrollo del proyecto. Este incluye elementos como encuestas, análisis de contexto e hipótesis, así como análisis de competidores y actores del mercado, junto con un briefing y un kit de diseño de interfaz de usuario (UI kit).
 
@@ -54,7 +54,7 @@ https://www.notion.so/la-proyectos/e37f5896059e4e8db09aca69c0e399d6?v=4eafa56133
 
 Diagrama de la página: Adjuntamos un diagrama que representa la estructura y navegación de la página web, proporcionando una visión general de la arquitectura de la información.
 
-Diagrama de la página.pdf
+Diagrama de la página https://drive.google.com/file/d/1Qh08O5iSocUW3hOAeZI2wTZ6m34ECQme/view?usp=drive_link
 
 Figma: Antes de iniciar nuestro desarrollo en WebFlow, realizamos un proceso de prototipado utilizando la herramienta Figma. Esto nos permitió visualizar y validar el diseño de la página web antes de la implementación.
 
