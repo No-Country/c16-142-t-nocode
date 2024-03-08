@@ -1,4 +1,16 @@
-Proyecto E-Commerce de productos alimenticios para personas con restricciones. Este repositorio contiene la documentación y recursos relacionados con el proyecto de una página web e-commerce desarrollada en WebFlow. La plataforma está destinada a proporcionar una experiencia de compra conveniente y segura para personas con diversas restricciones alimenticias, como celíacos, veganos, vegetarianos, hipertensos, entre otros. Descripción del proyecto, el objetivo principal de este proyecto es ofrecer una solución integral para la compra de productos alimenticios adaptados a las necesidades específicas de cada cliente. Para lograrlo, hemos seguido un enfoque metodológico que incluye diversas etapas:
+<div>
+
+<!-- PROJECT LOGO -->
+<br />
+  <div align='center'>
+<h3>Bienvenid@s a NutriFree</h3></div>
+
+  <p>
+    <strong>Proyecto E-Commerce de productos alimenticios para personas con restricciones.</strong>. 
+     Este repositorio contiene la documentación y recursos relacionados con el proyecto de una página web e-commerce desarrollada en WebFlow. La plataforma está destinada a proporcionar una experiencia de compra conveniente y segura para personas con diversas restricciones alimenticias, como celíacos, veganos, vegetarianos, hipertensos, entre otros. Descripción del proyecto, el objetivo principal de este proyecto es ofrecer una solución integral para la compra de productos alimenticios adaptados a las necesidades específicas de cada cliente.
+  </p>
+</div>
+ Para lograrlo, hemos seguido un enfoque metodológico que incluye diversas etapas:
 
 SEMANA 0: 
 Durante la semana 0 se llevaron a cabo varias reuniones. En las que se presentaron los diferentes integrantes del equipo, hicimos una lluvia de ideas sobre los temas que nos parecían interesantes, hablamos sobre los roles que va a cumplir cada uno y también las tecnologías que podríamos ocupar. Realizamos una reunión para conocernos con el TL de nuestra comisión y organizarnos los días de reunión.
