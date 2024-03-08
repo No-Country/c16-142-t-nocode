@@ -6,7 +6,8 @@
 <h3>Bienvenid@s a NutriFree</h3></div>
 
   <p>
-    <strong>Proyecto E-Commerce de productos alimenticios para personas con restricciones.</strong>. 
+    <strong>Proyecto E-Commerce de productos alimenticios para personas con restricciones.</strong> 
+    <br />
      Este repositorio contiene la documentación y recursos relacionados con el proyecto de una página web e-commerce desarrollada en WebFlow. La plataforma está destinada a proporcionar una experiencia de compra conveniente y segura para personas con diversas restricciones alimenticias, como celíacos, veganos, vegetarianos, hipertensos, entre otros. Descripción del proyecto, el objetivo principal de este proyecto es ofrecer una solución integral para la compra de productos alimenticios adaptados a las necesidades específicas de cada cliente.
   </p>
 </div>
