@@ -1,6 +1,9 @@
 <div>
 
 <!-- PROJECT LOGO -->
+<div align='center'>
+<img src="https://assets-global.website-files.com/65d0e4b6850abefb386a167a/65df2a8d446a3348bcc9518c_Green%20Vintage%20Agriculture%20and%20Farming%20Logo.png" alt="Banner">
+</div>
 <br />
   <div align='center'>
 <h3>Bienvenid@s a NutriFree</h3></div>
