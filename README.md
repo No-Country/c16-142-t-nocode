@@ -1,12 +1,15 @@
 <div>
-
-<!-- PROJECT LOGO -->
+<!-- LOGO -->
 <div align='center'>
-<img src="https://assets-global.website-files.com/65d0e4b6850abefb386a167a/65df2a8d446a3348bcc9518c_Green%20Vintage%20Agriculture%20and%20Farming%20Logo.png" alt="Banner">
+  <a href="https://nocountry142s-marvelous-site.webflow.io/" target="_blank">
+<img width="350" src="https://assets-global.website-files.com/65d0e4b6850abefb386a167a/65df2a8d446a3348bcc9518c_Green%20Vintage%20Agriculture%20and%20Farming%20Logo.png" alt="Banner">
+  </a>
 </div>
+  
+<!-- INTRODICCIÓN -->
 <br />
   <div align='center'>
-<h3>Bienvenid@s a NutriFree</h3></div>
+<h1>Bienvenid@s a NutriFree</h1></div>
 
   <p>
     <strong>Proyecto E-Commerce de productos alimenticios para personas con restricciones.</strong> 
@@ -14,7 +17,12 @@
      Este repositorio contiene la documentación y recursos relacionados con el proyecto de una página web e-commerce desarrollada en WebFlow. La plataforma está destinada a proporcionar una experiencia de compra conveniente y segura para personas con diversas restricciones alimenticias, como celíacos, veganos, vegetarianos, hipertensos, entre otros. Descripción del proyecto, el objetivo principal de este proyecto es ofrecer una solución integral para la compra de productos alimenticios adaptados a las necesidades específicas de cada cliente.
   </p>
 </div>
+
+<!-- DESARROLLO -->
+
  <div align='left'>
+<h1> Etapas de Investigación, Diseño y Desarrollo
+</h1>
  Para lograrlo, hemos seguido un enfoque metodológico que incluye diversas etapas:
 
 <strong> SEMANA 0:</strong>
@@ -35,7 +43,7 @@ https://www.notion.so/la-proyectos/e37f5896059e4e8db09aca69c0e399d6?v=4eafa56133
 Diagrama de la página: Adjuntamos un diagrama que representa la estructura y navegación de la página web, proporcionando una visión general de la arquitectura de la información.
 Diagrama de la página https://drive.google.com/file/d/1CvQ9VO5Hb5zP5DdolhqBS8TnrNdaXQ6Z/view?usp=drive_link 
 
-<strong> SEMANA 2 A 4 </strong> 
+<strong> SEMANA 2 A 4: </strong> 
  <br />
 Figma: Antes de iniciar nuestro desarrollo en WebFlow, realizamos un proceso de prototipado utilizando la herramienta Figma. Esto nos permitió visualizar y validar el diseño de la página web antes de la implementación.
 https://www.figma.com/file/XFdLzB0KUbDKXwty65UaKL/UI-Kit---Nutrifree?type=design&mode=design&t=TJaMNeH3Oz7qzvOT-1
@@ -43,7 +51,8 @@ https://www.figma.com/file/XFdLzB0KUbDKXwty65UaKL/UI-Kit---Nutrifree?type=design
 Inicio del proyecto: Iniciamos las actividades definidas en el kanban, comenzando por la etapa de Empatizar, en la cual llevamos a cabo las siguientes tareas: Benchmark. Análisis de actores y competidores. Creamos una encuesta para conocer más sobre nuestro usuario.
 Pusimos en circulación la encuesta y también recopilamos datos cuantitativos sobre nuestra temática para luego generar las hipótesis.
  <br />
-Desarrollo:
+<strong>Desarrollo:</strong>
+ <br />
 Comenzamos el desarrollo de nuestra página en WebFlow, construyendo la web siguiendo las especificaciones y el diseño establecido en las etapas anteriores. 
 https://preview.webflow.com/preview/nocountry142s-marvelous-site?utm_medium=preview_link&utm_source=designer&utm_content=nocountry142s-marvelous-site&preview=f785b84cd59860de9d7821452883050e&workflow=preview
 
@@ -53,26 +62,32 @@ Para llevar a cabo el proyecto se realizó una división de las diferentes tarea
 
 </div>
 
-Las responsabilidades se dividieron de la siguiente manera
+<h1> Tareas desarrolladas 
+</h1>
 
-Lisandro Argüello: 
+✔Lisandro Argüello: 
 Desempeñó un papel esencial en el diseño del UI kit, garantizando una estética visual coherente y atractiva. Además, brindó un asesoramiento constante durante todo el proceso de desarrollo, participando en la selección de imágenes, banners y la adaptación de la tipografía y paleta de colores. También se encargó de la estructura, contenido y funcionalidad de la página de productos, así como de asegurar su diseño responsive para el Home.
 
-María Lourdes Giolongo:
+✔María Lourdes Giolongo:
 Lideró la estructura, contenido y funcionalidad de elementos fundamentales como el navegador, las categorías, el inicio de sesión, el registro y el footer. Así mismo, trabajó en la bases de datos y el uso de colecciones CMS contribuyeron significativamente a la organización eficiente de la información. Lourdes también se aseguró de que el sitio fuera completamente responsive y de que todos los enlaces y vínculos funcionarán correctamente.
 
-Silvina Alverte Bescós:
+✔Silvina Alverte Bescós:
 Silvina se enfocó en el contenido del blog y lideró la estructura, contenido, funcionalidad y diseño responsive de secciones significativas como Recetas, Quiénes somos y Check Out (Paypal). También trabajó en en el manejo de bases de datos y colecciones CMS aseguraron la integridad y fluidez de estas áreas.
 
-Danae Lescano Salvatierra:
+✔Danae Lescano Salvatierra:
 Danae desempeñó un papel crucial en la estructuración, contenido y funcionalidad de áreas importantes como la página de inicio, el área de asesoramiento y el blog. Su capacidad para organizar y gestionar páginas dinámicas fue esencial para mantener una experiencia de usuario fluida. Dani también fue responsable de trabajar en la base de datos y el uso de colecciones CMS, garantizando un flujo de información óptimo y una funcionalidad completa en todas las secciones del sitio. Además, contribuyó al diseño responsive general de la página, asegurando una experiencia consistente en diferentes dispositivos.
 
-Ana Belén Rivarola:
+✔Ana Belén Rivarola:
 Anita se encargó del diseño y creación de las diferentes redes sociales asociadas al proyecto, asegurando una presencia efectiva en plataformas externas y contribuyendo así a una estrategia de marketing integral.
 
 Cada miembro del equipo desempeñó un papel crucial en el logro de este objetivo, trabajando de manera retroactiva, demostrando nuestra capacidad para trabajar en equipo, enfrentar desafíos y entregar resultados de alta calidad.
 
 Esta parte del proyecto nos permitió crear una versión funcional de la plataforma para el cliente, asegurándonos que cumpla con sus expectativas y requisitos. Cumpliendo nuestra principal misión responder a  una problemática actual, brindando un servicio global para el bienestar del Usuario.
+<h1> Tecnologías Utilizadas 
+</h1>
+ <strong> Trello - NoTion - Figma - Canva - WebFlow </strong>
+  <br />
+<!-- EQUIPO -->
  <br />
 <h1> Equipo c16-142-t-nocode  
 </h1>
@@ -85,7 +100,7 @@ Esta parte del proyecto nos permitió crear una versión funcional de la platafo
           <img width="110" src="https://avatars.githubusercontent.com/u/102389920?v=4"/>
         </a>
       <a href="" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Silvina Alverte Bescós</br><small>Front and BackEnd</small></h4>
+          <h4 style="margin-top: 1rem;">Silvina Alverte Bescós</br><small>Web Developer</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
         <a href="https://github.com/Salverte" target="_blank">
@@ -121,7 +136,7 @@ Esta parte del proyecto nos permitió crear una versión funcional de la platafo
           <img width="110" src="https://avatars.githubusercontent.com/u/112575954?v=4"/>
         </a>
         <a href="https://github.com/Lourdesgiolongo" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Lourdes</br><small>Front-End</small></h4>
+          <h4 style="margin-top: 1rem;">Lourdes</br><small>Software Developer</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
         <a href="https://github.com/Lourdesgiolongo" target="_blank">
@@ -143,7 +158,7 @@ Esta parte del proyecto nos permitió crear una versión funcional de la platafo
           <img width="110" src="https://media.licdn.com/dms/image/D4D35AQEMzJuD75-SAw/profile-framedphoto-shrink_200_200/0/1703470407700?e=1710547200&v=beta&t=eMM-hBtFMTChB9c3a07WufdCK7Lim7-B3UPzfpkh410"/>
         </a>
         <a href="https://github.com/Anita1555" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Ana Belén Rivarola</br><small>Back-End</small></h4>
+          <h4 style="margin-top: 1rem;">Ana Belén Rivarola</br><small>Front-End</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
         <a href="https://github.com/Anita1555" target="_blank">
@@ -158,10 +173,10 @@ Esta parte del proyecto nos permitió crear una versión funcional de la platafo
 <td align='center'>
       <div >
         <a href="https://github.com/Lescano713" target="_blank" rel="author">
-          <img width="110" src="https://media.licdn.com/dms/image/D4D35AQEMzJuD75-SAw/profile-framedphoto-shrink_200_200/0/1703470407700?e=1710547200&v=beta&t=eMM-hBtFMTChB9c3a07WufdCK7Lim7-B3UPzfpkh410"/>
+          <img width="110" src="https://avatars.githubusercontent.com/u/131562199?v=4"/>
         </a>
         <a href="https://github.com/Lescano713"_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Ana Belén Rivarola</br><small>Back-End</small></h4>
+          <h4 style="margin-top: 1rem;">Danae Lescano</br><small>Web Developer</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
         <a href="https://github.com/Lescano713" target="_blank">
