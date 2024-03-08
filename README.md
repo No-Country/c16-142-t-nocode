@@ -73,6 +73,7 @@ Anita se encargó del diseño y creación de las diferentes redes sociales asoci
 Cada miembro del equipo desempeñó un papel crucial en el logro de este objetivo, trabajando de manera retroactiva, demostrando nuestra capacidad para trabajar en equipo, enfrentar desafíos y entregar resultados de alta calidad.
 
 Esta parte del proyecto nos permitió crear una versión funcional de la plataforma para el cliente, asegurándonos que cumpla con sus expectativas y requisitos. Cumpliendo nuestra principal misión responder a  una problemática actual, brindando un servicio global para el bienestar del Usuario.
+ <br />
 <h1> Equipo c16-142-t-nocode  
 </h1>
 
@@ -80,10 +81,10 @@ Esta parte del proyecto nos permitió crear una versión funcional de la platafo
   <tr>
     <td align='center'>
       <div >
-        <a >
+        <a href="https://github.com/Salverte" target="_blank" rel="author" >
           <img width="110" src="https://avatars.githubusercontent.com/u/102389920?v=4"/>
         </a>
-        <a >
+      <a href="" target="_blank" rel="author">
           <h4 style="margin-top: 1rem;">Silvina Alverte Bescós</br><small>Front and BackEnd</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
@@ -95,6 +96,84 @@ Esta parte del proyecto nos permitió crear una versión funcional de la platafo
         </a>
         </div>
       </div>
+ </td>
+    <td align='center'>
+      <div >
+        <a href="https://github.com/lisandroarguello" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/D4D03AQHSc_bGxgB7Mg/profile-displayphoto-shrink_200_200/0/1708989057068?e=1715212800&v=beta&t=seDfHxyHVB1Dx_YZur9OC1ZUW1ah-TUwLssq1VVYUAo"/>
+        </a>
+        <a href="" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Lisandro Argüello</br><small>UX research | Product Designer</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/lisandroarguello" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/lisandroarguello/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+    <td align='center'>
+      <div >
+        <a href="https://github.com/Lourdesgiolongo" target="_blank" rel="author">
+          <img width="110" src="https://avatars.githubusercontent.com/u/112575954?v=4"/>
+        </a>
+        <a href="https://github.com/Lourdesgiolongo" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Lourdes</br><small>Front-End</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/Lourdesgiolongo" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/mar%C3%ADa-lourdes-giolongo-a68637262/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  </table>
+<table align='center'>
+<tr>
+<td align='center'>
+      <div >
+        <a href="https://github.com/Anita1555" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/D4D35AQEMzJuD75-SAw/profile-framedphoto-shrink_200_200/0/1703470407700?e=1710547200&v=beta&t=eMM-hBtFMTChB9c3a07WufdCK7Lim7-B3UPzfpkh410"/>
+        </a>
+        <a href="https://github.com/Anita1555" target="_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Ana Belén Rivarola</br><small>Back-End</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/Anita1555" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/ana-belen-rivarola-9891071a2/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+<td align='center'>
+      <div >
+        <a href="https://github.com/Lescano713" target="_blank" rel="author">
+          <img width="110" src="https://media.licdn.com/dms/image/D4D35AQEMzJuD75-SAw/profile-framedphoto-shrink_200_200/0/1703470407700?e=1710547200&v=beta&t=eMM-hBtFMTChB9c3a07WufdCK7Lim7-B3UPzfpkh410"/>
+        </a>
+        <a href="https://github.com/Lescano713"_blank" rel="author">
+          <h4 style="margin-top: 1rem;">Ana Belén Rivarola</br><small>Back-End</small></h4>
+        </a>
+        <div style='display: flex; flex-direction: column'>
+        <a href="https://github.com/Lescano713" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+        </a>
+        <a href="https://www.linkedin.com/in/danae-lescano/" target="_blank">
+          <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-
-
+  
