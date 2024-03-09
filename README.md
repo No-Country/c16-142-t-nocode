@@ -136,7 +136,7 @@ Esta parte del proyecto nos permitió crear una versión funcional de la platafo
           <img width="110" src="https://avatars.githubusercontent.com/u/112575954?v=4"/>
         </a>
         <a href="https://github.com/Lourdesgiolongo" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Lourdes</br><small>Software Developer</small></h4>
+          <h4 style="margin-top: 1rem;">Lourdes Giongolo</br><small>Software Developer</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
         <a href="https://github.com/Lourdesgiolongo" target="_blank">
