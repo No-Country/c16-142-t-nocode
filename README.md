@@ -55,8 +55,12 @@ Pusimos en circulación la encuesta y también recopilamos datos cuantitativos s
  <br />
 Comenzamos el desarrollo de nuestra página en WebFlow, construyendo la web siguiendo las especificaciones y el diseño establecido en las etapas anteriores. 
 [Diseño](https://preview.webflow.com/preview/nocountry142s-marvelous-site?utm_medium=preview_link&utm_source=designer&utm_content=nocountry142s-marvelous-site&preview=f785b84cd59860de9d7821452883050e&workflow=preview)
-<a href="https://preview.webflow.com/preview/nocountry142s-marvelous-site?utm_medium=preview_link&utm_source=designer&utm_content=nocountry142s-marvelous-site&preview=f785b84cd59860de9d7821452883050e&workflow=preview" style="padding:10px; color:#fff; background-color:blue; border-radius:10px">Diseño</a>
+
 [DEMO](https://nocountry142s-marvelous-site.webflow.io/)
+
+<a href="https://nocountry142s-marvelous-site.webflow.io/" target="_blank">
+<img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DEMO&color=172B4D&label="/>
+</a>
 
 Para llevar a cabo el proyecto se realizó una división de las diferentes tareas, se mantuvo una comunicación permanente del proceso de cada participante. realizando un trabajo colaborativo frente a las diferentes problemáticas que fueron surgiendo, teniendo  un asesoramiento y diálogo constante entre los participantes buscando la efectividad desde el diseño y la funcionalidad de la página.
 
