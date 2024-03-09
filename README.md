@@ -35,28 +35,28 @@ Luego definimos el proceso de diseño UX creando un kanban en notion para dar in
  <br />
 En esta semana desarrollamos un kanban, un prototipado de la página en figma, con sus respectivos recursos, tipografías, logo y paleta de colores, y un diagrama de la misma y además creamos una encuesta en google forms. Encuesta: El propósito de esta encuesta fue comprender mejor las necesidades y desafíos enfrentados por personas con restricciones alimenticias.La encuesta fue tomada en cuenta desde que la respondieron 51 personas, lo que nos proporcionó una muestra representativa y significativa de la opinión y preferencias de nuestra audiencia. Los resultados fueron fundamentales para orientar el desarrollo de nuestra página web y asegurarnos de que abordaremos los problemas más relevantes para nuestra audiencia. Los resultados con sus preguntas correspondientes se encuentran en el siguiente link:
 
-[GRÁFICOS ENCUESTA](https://drive.google.com/file/d/1Qh08O5iSocUW3hOAeZI2wTZ6m34ECQme/view?usp=drive_link)
 <a href="https://drive.google.com/file/d/1Qh08O5iSocUW3hOAeZI2wTZ6m34ECQme/view?usp=drive_link" target="_blank">
-<img style='width:7rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=ENCUESTA&color=172B4D&label="/>
+<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=ENCUESTA&color=172B4D&label="/>
 </a>
+
 Kanban: Utilizamos una metodología ágil basada en Kanban para gestionar el desarrollo del proyecto. Este incluye elementos como encuestas, análisis de contexto e hipótesis, así como análisis de competidores y actores del mercado, junto con un briefing y un kit de diseño de interfaz de usuario (UI kit).
-https://www.notion.so/la-proyectos/e37f5896059e4e8db09aca69c0e399d6?v=4eafa56133244ea7979bb3173a9a4a82&pvs=4
+
 <a href="https://www.notion.so/la-proyectos/e37f5896059e4e8db09aca69c0e399d6?v=4eafa56133244ea7979bb3173a9a4a82&pvs=4" target="_blank">
-<img style='width:7rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=NOTION&color=172B4D&label="/>
+<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=NOTION&color=172B4D&label="/>
 </a>
 
 Diagrama de la página: Adjuntamos un diagrama que representa la estructura y navegación de la página web, proporcionando una visión general de la arquitectura de la información.
-[Diagrama](https://drive.google.com/file/d/1CvQ9VO5Hb5zP5DdolhqBS8TnrNdaXQ6Z/view?usp=drive_link) 
+
 <a href="https://drive.google.com/file/d/1CvQ9VO5Hb5zP5DdolhqBS8TnrNdaXQ6Z/view?usp=drive_link" target="_blank">
-<img style='width:7rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DIAGRAMA&color=172B4D&label="/>
+<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DIAGRAMA&color=172B4D&label="/>
 </a>
 
 <strong> SEMANA 2 A 4: </strong> 
  <br />
 Figma: Antes de iniciar nuestro desarrollo en WebFlow, realizamos un proceso de prototipado utilizando la herramienta Figma. Esto nos permitió visualizar y validar el diseño de la página web antes de la implementación.
-[Figma](https://www.figma.com/file/XFdLzB0KUbDKXwty65UaKL/UI-Kit---Nutrifree?type=design&mode=design&t=TJaMNeH3Oz7qzvOT-1)
+<br />
 <a href="https://www.figma.com/file/XFdLzB0KUbDKXwty65UaKL/UI-Kit---Nutrifree?type=design&mode=design&t=TJaMNeH3Oz7qzvOT-1" target="_blank">
-<img style='width:7rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=FIGMA&color=172B4D&label="/>
+<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=FIGMA&color=172B4D&label="/>
 </a>
 
  <br />
@@ -66,14 +66,13 @@ Pusimos en circulación la encuesta y también recopilamos datos cuantitativos s
 <strong>Desarrollo:</strong>
  <br />
 Comenzamos el desarrollo de nuestra página en WebFlow, construyendo la web siguiendo las especificaciones y el diseño establecido en las etapas anteriores. 
-[Diseño](https://preview.webflow.com/preview/nocountry142s-marvelous-site?utm_medium=preview_link&utm_source=designer&utm_content=nocountry142s-marvelous-site&preview=f785b84cd59860de9d7821452883050e&workflow=preview)
-
+<br />
 <a href="https://preview.webflow.com/preview/nocountry142s-marvelous-site?utm_medium=preview_link&utm_source=designer&utm_content=nocountry142s-marvelous-site&preview=f785b84cd59860de9d7821452883050e&workflow=preview" target="_blank">
-<img style='width:7rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DISEÑO&color=172B4D&label="/>
+<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DISEÑO&color=8A2BE2&label="/>
 </a>
 
 <a href="https://nocountry142s-marvelous-site.webflow.io/" target="_blank">
-<img style='width:8rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DEMO&color=172B4D&label="/>
+<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DEMO&color=172B4D&label="/>
 </a>
 
 Para llevar a cabo el proyecto se realizó una división de las diferentes tareas, se mantuvo una comunicación permanente del proceso de cada participante. realizando un trabajo colaborativo frente a las diferentes problemáticas que fueron surgiendo, teniendo  un asesoramiento y diálogo constante entre los participantes buscando la efectividad desde el diseño y la funcionalidad de la página.
