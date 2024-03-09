@@ -5,7 +5,6 @@
 <img width="350" src="https://assets-global.website-files.com/65d0e4b6850abefb386a167a/65df2a8d446a3348bcc9518c_Green%20Vintage%20Agriculture%20and%20Farming%20Logo.png" alt="Banner">
   </a>
 </div>
-  
 <!-- INTRODICCIÓN -->
 <br />
   <div align='center'>
@@ -19,7 +18,12 @@
 </div>
 
 <!-- DESARROLLO -->
-
+## Tabla de contenidos
+1. [Investigación](#investigacion)
+2. [Desarrollo](#desarrollo)
+3. [Roles y Tareas](#roles-tareas)
+4. [Tecnologias](#tecnologias)
+5. [Colaboradores](#colaboradores)
  <div align='left'>
 <h1> Etapas de Investigación, Diseño y Desarrollo
 </h1>
@@ -31,24 +35,24 @@ Durante la semana 0 se llevaron a cabo varias reuniones. En las que se presentar
 Nos reunimos con el equipo para conocernos mejor y responder las preguntas introductorias de la guía.
 Luego definimos el proceso de diseño UX creando un kanban en notion para dar inicio a las actividades de la semana 1 Al finalizar la semana realizamos una última reunión en la que definimos los siguientes puntos: -Objetivos del proyecto: a que usuarios apunta la página, necesidades que quiere responder, etc. -Tecnologías a utilizar. -Roles tentativos de cada uno. -User stories. -Iniciamos el BackLog. -Planteamos propuestas para llevar a cabo el proyecto.
  <br />
-<strong> SEMANA 1:</strong> 
+<strong id="investigacion"> SEMANA 1:</strong> 
  <br />
 En esta semana desarrollamos un kanban, un prototipado de la página en figma, con sus respectivos recursos, tipografías, logo y paleta de colores, y un diagrama de la misma y además creamos una encuesta en google forms. Encuesta: El propósito de esta encuesta fue comprender mejor las necesidades y desafíos enfrentados por personas con restricciones alimenticias.La encuesta fue tomada en cuenta desde que la respondieron 51 personas, lo que nos proporcionó una muestra representativa y significativa de la opinión y preferencias de nuestra audiencia. Los resultados fueron fundamentales para orientar el desarrollo de nuestra página web y asegurarnos de que abordaremos los problemas más relevantes para nuestra audiencia. Los resultados con sus preguntas correspondientes se encuentran en el siguiente link:
 
 <a href="https://drive.google.com/file/d/1Qh08O5iSocUW3hOAeZI2wTZ6m34ECQme/view?usp=drive_link" target="_blank">
-<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=ENCUESTA&color=172B4D&label="/>
+<img style='width:7rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=ENCUESTA&color=172B4D&label="/>
 </a>
 
 Kanban: Utilizamos una metodología ágil basada en Kanban para gestionar el desarrollo del proyecto. Este incluye elementos como encuestas, análisis de contexto e hipótesis, así como análisis de competidores y actores del mercado, junto con un briefing y un kit de diseño de interfaz de usuario (UI kit).
 
 <a href="https://www.notion.so/la-proyectos/e37f5896059e4e8db09aca69c0e399d6?v=4eafa56133244ea7979bb3173a9a4a82&pvs=4" target="_blank">
-<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=NOTION&color=172B4D&label="/>
+<img style='width:6rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=NOTION&color=172B4D&label="/>
 </a>
 
 Diagrama de la página: Adjuntamos un diagrama que representa la estructura y navegación de la página web, proporcionando una visión general de la arquitectura de la información.
 
 <a href="https://drive.google.com/file/d/1CvQ9VO5Hb5zP5DdolhqBS8TnrNdaXQ6Z/view?usp=drive_link" target="_blank">
-<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DIAGRAMA&color=172B4D&label="/>
+<img style='width:7rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DIAGRAMA&color=172B4D&label="/>
 </a>
 
 <strong> SEMANA 2 A 4: </strong> 
@@ -63,23 +67,26 @@ Figma: Antes de iniciar nuestro desarrollo en WebFlow, realizamos un proceso de 
 Inicio del proyecto: Iniciamos las actividades definidas en el kanban, comenzando por la etapa de Empatizar, en la cual llevamos a cabo las siguientes tareas: Benchmark. Análisis de actores y competidores. Creamos una encuesta para conocer más sobre nuestro usuario.
 Pusimos en circulación la encuesta y también recopilamos datos cuantitativos sobre nuestra temática para luego generar las hipótesis.
  <br />
-<strong>Desarrollo:</strong>
+<strong id="desarrollo">Desarrollo:</strong>
  <br />
 Comenzamos el desarrollo de nuestra página en WebFlow, construyendo la web siguiendo las especificaciones y el diseño establecido en las etapas anteriores. 
 <br />
+
 <a href="https://preview.webflow.com/preview/nocountry142s-marvelous-site?utm_medium=preview_link&utm_source=designer&utm_content=nocountry142s-marvelous-site&preview=f785b84cd59860de9d7821452883050e&workflow=preview" target="_blank">
-<img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DISEÑO&color=172B4D&label="/>
-</a>
-<br/>
-<a href="https://nocountry142s-marvelous-site.webflow.io/" target="_blank">
 <img style='width:5rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=DEMO&color=172B4D&label="/>
+</a>
+
+<br/>
+
+<a href="https://nocountry142s-marvelous-site.webflow.io/" target="_blank">
+<img style='width:6rem' src="https://img.shields.io/static/v1?style=for-the-badge&message=PAGINA&color=172B4D&label="/>
 </a>
 
 Para llevar a cabo el proyecto se realizó una división de las diferentes tareas, se mantuvo una comunicación permanente del proceso de cada participante. realizando un trabajo colaborativo frente a las diferentes problemáticas que fueron surgiendo, teniendo  un asesoramiento y diálogo constante entre los participantes buscando la efectividad desde el diseño y la funcionalidad de la página.
 
 </div>
 
-<h1> Tareas desarrolladas 
+<h1 id="roles-tareas"> Tareas desarrolladas 
 </h1>
 
 ✔Lisandro Argüello: 
@@ -100,13 +107,13 @@ Anita se encargó del diseño y creación de las diferentes redes sociales asoci
 Cada miembro del equipo desempeñó un papel crucial en el logro de este objetivo, trabajando de manera retroactiva, demostrando nuestra capacidad para trabajar en equipo, enfrentar desafíos y entregar resultados de alta calidad.
 
 Esta parte del proyecto nos permitió crear una versión funcional de la plataforma para el cliente, asegurándonos que cumpla con sus expectativas y requisitos. Cumpliendo nuestra principal misión responder a  una problemática actual, brindando un servicio global para el bienestar del Usuario.
-<h1> Tecnologías Utilizadas 
+<h1 id="tecnologias"> Tecnologías Utilizadas 
 </h1>
  <strong> Trello - NoTion - Figma - Canva - WebFlow </strong>
   <br />
 <!-- EQUIPO -->
  <br />
-<h1> Equipo c16-142-t-nocode  
+<h1 id="colaboradores"> Equipo c16-142-t-nocode  
 </h1>
 
 <table align='center'>
